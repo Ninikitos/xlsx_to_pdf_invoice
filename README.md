@@ -18,4 +18,4 @@ printing total sum and displaying different information about product.
 - [ ] Extend functionality
 
 ### GUI Interface
-![gui_image]()
+![gui_image](https://github.com/Ninikitos/xlsx_to_pdf_invoice/blob/main/cover_img/pdf_cover.png)
